@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libriquinquesil00statgoog_0564.png"; bbox 0 0 3194 5156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 155 1860 1169 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 155 1860 1169 2398">
+     <span class='ocr_line' id='line_1_1' title="bbox 188 1860 1169 1988; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 188 1865 478 1988; x_wconf 82' lang='lat' dir='ltr'>PUBLII</span> <span class='ocrx_word' id='word_1_2' title='bbox 518 1860 846 1987; x_wconf 81' lang='lat' dir='ltr'><strong>PAPINH</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 888 1860 1169 1987; x_wconf 82' lang='lat' dir='ltr'>STATH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 155 2211 1089 2398; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 155 2273 170 2304; x_wconf 60' lang='lat'><em>⁵</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 264 2211 1089 2398; x_wconf 80' lang='lat' dir='ltr'><strong>ACHILLEIDOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 394 2607 959 2698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 394 2607 959 2698">
+     <span class='ocr_line' id='line_1_3' title="bbox 394 2607 959 2698; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 394 2607 583 2696; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_7' title='bbox 621 2607 959 2698; x_wconf 86' lang='lat' dir='ltr'><strong>SECUNDUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1602 5156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1602 5156">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1602 5156; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1602 5156; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

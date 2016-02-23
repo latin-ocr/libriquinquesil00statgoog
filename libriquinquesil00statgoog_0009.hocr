@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libriquinquesil00statgoog_0009.png"; bbox 0 0 3196 5158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 583 2031 1239 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 583 2031 1239 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 583 2031 1239 2104; baseline -0.002 -6"><span class='ocrx_word' id='word_1_1' title='bbox 583 2031 868 2104; x_wconf 83' lang='lat' dir='ltr'>EXGUDEBAT</span> <span class='ocrx_word' id='word_1_2' title='bbox 890 2031 1063 2098; x_wconf 86' lang='lat' dir='ltr'>JULIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1087 2031 1239 2098; x_wconf 83' lang='lat' dir='ltr'>DIDOT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 814 2172 1012 2212">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 814 2172 1012 2212">
+     <span class='ocr_line' id='line_1_2' title="bbox 814 2172 1012 2212; baseline -0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 814 2175 894 2212; x_wconf 76' lang='lat' dir='ltr'>mu</span> <span class='ocrx_word' id='word_1_5' title='bbox 914 2172 1012 2211; x_wconf 74' lang='lat' dir='ltr'>mon</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 703 2311 1123 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 703 2311 1123 2368">
+     <span class='ocr_line' id='line_1_3' title="bbox 703 2311 1123 2368; baseline 0.002 -4"><span class='ocrx_word' id='word_1_6' title='bbox 703 2312 817 2368; x_wconf 78' lang='lat' dir='ltr'>REGIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 834 2311 1123 2368; x_wconf 75' lang='lat' dir='ltr'><strong>TYPOGRAPHUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1602 5158">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1602 5158">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1602 5158; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1602 5158; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
